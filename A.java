@@ -3,4 +3,5 @@ public class A{
   String str = "전창용";
   int age = 50;
   double d = 10.9;
+  고침
 }
